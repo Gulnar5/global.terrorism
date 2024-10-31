@@ -2,7 +2,11 @@
 
 Global Terrorism Data Analysis
 In this project, I used Power BI to analyze and visualize global terrorism data. The data reflects statistics on various terrorist incidents and includes the following visualizations:
+
+![Screenshot 2024-10-31 160004](https://github.com/user-attachments/assets/858b549c-290c-4fab-be60-86a47a45ffd6)
+
 __________________________________________________________________________________________________________________________________________
+The data reflects statistics on various terrorist incidents and includes the following visualizations:
 Content
 Data Cleaning: The data was initially cleaned and new columns were created.
 
